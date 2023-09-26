@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    flex-direction: column;
+    justify-content: flex-end;
+    max-height:fit-content
+    
+}
+.f-container{
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.f-text{
+    color:white;
+    margin-top: 10px;
+}
+

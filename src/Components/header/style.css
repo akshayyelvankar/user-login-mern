@@ -1,0 +1,23 @@
+.header{
+
+}
+.nav{
+  width: 100%;
+  background-color:grey;
+}
+.nav-list{
+  width: 100%;  
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  text-decoration: none;
+}
+.nav-item{
+    list-style: none;
+    padding: 5px;
+    cursor: pointer;
+}
+.t-deco{
+  text-decoration: none;
+  color: white;
+}
